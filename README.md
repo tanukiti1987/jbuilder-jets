@@ -1,5 +1,8 @@
 # Jbuilder Jets
 
+[![Gem Version](https://img.shields.io/gem/v/jbuilder-jets.svg)](https://rubygems.org/gems/jbuilder-jets)
+[![Build Status](https://travis-ci.com/tanukiti1987/jbuilder-jets.svg?branch=master)](https://travis-ci.com/tanukiti1987/jbuilder-jets)
+
 [Jbuilder](https://github.com/rails/jbuilder) gives you a simple DSL for declaring JSON structures that beats manipulating giant hash structures.
 
 This gem is available for using Jbuilder with [Jets: Ruby Serverless Framework](http://rubyonjets.com/).
